@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Contracts\TaskOne;
-use App\Contracts\TaskOneContract;
 use Illuminate\Http\Request;
 
 class TaskOneController extends Controller
